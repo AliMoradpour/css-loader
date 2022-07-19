@@ -63,3 +63,15 @@ body {
 .loader span:nth-child(7){
     animation-delay: 2.2s;
 }
+
+/* Footer  */
+.footer h4{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    bottom:5%;
+    left: 45%;
+}
